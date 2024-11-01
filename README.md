@@ -44,7 +44,7 @@ Na aula de informática iremos aprender a utilizar o EXCEL, POWER BI e outras fe
 
 # Informação Pessoal
 |    Função     | Nome                                  |                                                                                                                                                                                                                                                                                                            |
-| :-----------: | :------------------------------------ | 
+| :-----------: | :------------------------------------: |-
 | Scrumn Team |   Adrian Augusto         |    
 
 # Objetivo das Aulas
